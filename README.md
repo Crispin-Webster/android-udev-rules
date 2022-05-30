@@ -55,6 +55,14 @@ adb devices
 # You should now see your device
 ```
 
+### Easier Method 
+
+1. Download the file  
+2. Extract it  
+4. Follow the method to add adbuser if it doesn't exist 
+5. run install.sh present in the file  
+6. Profit :)
+
 ## To Contribute
 
 1. Fork this repository.
